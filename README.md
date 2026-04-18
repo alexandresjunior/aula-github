@@ -8,6 +8,7 @@
 - `git log --oneline -n 2`: Retornar os dois últimos commits mais recentes de forma resumida.
 - `git push origin main`: Envia seus commits do repositório local para o remoto (branch `main`).
 - `git pull origin main`: Baixa os commits do repositório remoto para o local (branch `main`).
+- `git checkout -b XYZ`: Cria uma nova branch de nome `XYZ`.
 
 ## Fluxo de Trabalho
 1. Criar nova branch
